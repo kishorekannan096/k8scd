@@ -7,5 +7,5 @@ metadata:
     app: test
 spec:
   containers:
-  - name: httpd
-    image: httpd
+  - name: nginx
+    image: nginx
